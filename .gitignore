@@ -1,3 +1,5 @@
 *.asv
+*.tar.gz
 unlocbox/
 ltfat/
+rwt/
